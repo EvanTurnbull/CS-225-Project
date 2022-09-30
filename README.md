@@ -1,2 +1,2 @@
-# CS-225-Project
-CS Project
+# Project for CS 225 by Evan Turnbull
+This repository conveys a project
